@@ -1,0 +1,29 @@
+-styling react component 
+-material UI
+-React Bootstrap :
+
+
+
+
+
+
+
+
+
+
+
+
+-setting app path component in react
+      install react router dom :npm  i reacr -router-dom
+      -rect app must be inside <Browser router>
+      -components needs tp set up path must be inside <Router> component of react
+
+
+      useEffect:it is used to perform a side effect task when rendering a component
+
+      hoe to deploy json file using node .js
+      ----------------------
+      1.create index.js
+      2.update script in package.json file as "start":"node index.js"
+      3.create.girignore file and add node _module folder
+      4.define json server to run json file in index.js
